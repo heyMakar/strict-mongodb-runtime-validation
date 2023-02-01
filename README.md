@@ -1,0 +1,1 @@
+# strict-mongodb-runtime-validation
